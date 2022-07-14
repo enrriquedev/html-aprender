@@ -1,0 +1,37 @@
+/*identificador css*
+#titulo_principal{
+    color:#9a7988;
+    text-align: center;
+    margin: 15px;
+}
+h2{
+    color:#3f37c9
+}
+p{
+    color:#457b9d;
+}
+/*Clase de CSS*/
+.tarjeta{
+    border: 10px solid #560bad;
+    background-color: #f1faee;
+    text-align: center;
+    margin: 15px 100px;
+    padding:15px;
+}
+.titulo{
+    color:crimson
+
+}
+
+div:hover,h1:hover,p:hover,h2:hover,span:hover{
+    background-color: rgba(237, 23, 180, 0.933);
+    color: black;
+}
+/* h1:hover{
+    color: bisque;
+    background-color: #3f37c9;
+}
+p:hover{
+    background-color: #3f37c9;
+} */
+
